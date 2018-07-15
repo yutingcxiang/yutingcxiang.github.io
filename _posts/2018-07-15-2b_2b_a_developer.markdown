@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "2B || !2B A Developer"
-date:       2018-07-15 21:04:40 +0000
+date:       2018-07-15 17:04:41 -0400
 permalink:  2b_2b_a_developer
 ---
 
@@ -14,8 +14,8 @@ But more importantly....
 
 What language do I learn? Front-end or back-end or full-stack? Is web development different from software engineering? What about machine learning and data science?
 
-    ¯\_(ツ)_/¯
-I have no idea.
+   ¯\_(ツ)_/¯
+I don't know.
 
 But why not start here?
 
