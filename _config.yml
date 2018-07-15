@@ -1,10 +1,10 @@
 # Site settings
-title: Christine's Code-Blooded Blog
+title: Christine's Code
 header-img: img/home-bg.png
 email: yutingcxiang@gmail.com
 copyright_name: yutingcxiang
 description: > # this means to ignore newlines until "baseurl:"
-   
+   A Code-Blooded Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  yutingcxiang
