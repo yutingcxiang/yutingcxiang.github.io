@@ -14,8 +14,7 @@ But more importantly....
 
 What language do I learn? Front-end or back-end or full-stack? Is web development different from software engineering? What about machine learning and data science?
 
-   ¯\_(ツ)_/¯
 I don't know.
 
-But why not start here?
+But why not start here? 
 
