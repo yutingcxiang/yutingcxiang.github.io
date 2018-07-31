@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Top 50 Universities CLI Gem"
-date:       2018-07-31 23:14:50 +0000
+date:       2018-07-31 19:14:50 -0400
 permalink:  top_50_universities_cli_gem
 ---
 
@@ -13,8 +13,6 @@ With this university list in mind, I set out to create a University CLI app that
 After receiving the green light on my project as well as assurance the website would be easy to scrape, I proceeded to follow along with Avi's video walkthrough of his daily-deal CLI app. Going into the project, I was most worried about setting up the environment and related files. Luckily, bundler was very straightforward and there weren't any major roadblocks there (except for installing the required gems locally).
 
 The toughest part of the entire project turned out to be the scraper itself. After the usual scraping methods were turning up blanks, I reached out to the Flatiron team for assistance. After a couple of debugging sessions, it turns out the scraper was unable to pick up the data due to the JavaScript triggers for the collapsible college elements (a click was required to expand the field for more data). 
-
-![ ](https://imgur.com/LOl0vgT)
 
 I was then given a choice to either: 1) use a headless browser solution in the form of capybara, poltergeist and phantomjs or 2) to switch to a much simpler website. At that point, I had never heard of a headless browser and capybara was just a giant rodent to me.  But here's a simple explanation (from the first link below): 
 
