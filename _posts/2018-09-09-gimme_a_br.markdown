@@ -1,0 +1,20 @@
+---
+layout: post
+title:      "Gimme a `<br>`"
+date:       2018-09-10 00:46:04 +0000
+permalink:  gimme_a_br
+---
+
+
+Even before starting bootcamp prep, I spent a lot of time acquainting myself with html/css through the ww3schools material, codeacademy courses, and even worked my way through most of Learn to Code HTML & CSS. This, along with the prep material, gave me a pretty good foundation to start off of.  I even had prior marketing experience which taught me how to view the website from a consumer's perspective as well.
+
+HTML was simple and it was easy for me to understand how headers, paragraphs, links, divs, and footers worked. But styling with CSS? Completely different. Even if I knew how to add colors and fonts, knowing which ones worked best for the site just eluded me. Do I position this form here? What font works best for the header? How does this navigation menu work?? Where do i add spacing???
+
+![css](https://qph.fs.quoracdn.net/main-qimg-288a6f3a04059edf07c1a7fbe898c63bhttp://)
+
+Ultimately, I find the best solution for this was to get more acquainted with well-designed websites. I've stumbled upon many (a majority of which happen to be media/tech companies or clothing store websites) but this website has tons of unique, simple, and elegant sites as well: https://www.awwwards.com/.
+
+They say you can learn to write better by reading more. Perhaps I can design websites better by visiting more.
+
+
+
