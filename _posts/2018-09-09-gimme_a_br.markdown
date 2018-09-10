@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Gimme a `<br>`"
-date:       2018-09-10 00:46:04 +0000
+date:       2018-09-09 20:46:05 -0400
 permalink:  gimme_a_br
 ---
 
@@ -10,7 +10,7 @@ Even before starting bootcamp prep, I spent a lot of time acquainting myself wit
 
 HTML was simple and it was easy for me to understand how headers, paragraphs, links, divs, and footers worked. But styling with CSS? Completely different. Even if I knew how to add colors and fonts, knowing which ones worked best for the site just eluded me. Do I position this form here? What font works best for the header? How does this navigation menu work?? Where do i add spacing???
 
-![css](https://qph.fs.quoracdn.net/main-qimg-288a6f3a04059edf07c1a7fbe898c63bhttp://)
+![](https://qph.fs.quoracdn.net/main-qimg-288a6f3a04059edf07c1a7fbe898c63b)
 
 Ultimately, I find the best solution for this was to get more acquainted with well-designed websites. I've stumbled upon many (a majority of which happen to be media/tech companies or clothing store websites) but this website has tons of unique, simple, and elegant sites as well: https://www.awwwards.com/.
 
