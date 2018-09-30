@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Progress Tracker - Sinatra Project"
-date:       2018-08-31 13:39:16 +0000
+title:      "Flatiron Progress Tracker "
+date:       2018-08-31 09:39:17 -0400
 permalink:  progress_tracker_-_sinatra_project
 ---
 
