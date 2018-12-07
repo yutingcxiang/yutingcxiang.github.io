@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "i.nvest 2.0 (Now with JavaScript!)"
-date:       2018-11-03 03:37:02 +0000
+date:       2018-11-02 23:37:03 -0400
 permalink:  i_nvest_2_0_now_with_javascript
 ---
 
 
 After completing the JavaScript portion of the curriculum, I refactored my Rails project and updated the interface. The new and improved i.nvest now includes a cleaner and more dynamic look with the addition of ajax. 
 
-![i.nvest Welcome Page](https://imgur.com/P3FXRCw)
+![i.nvest](https://imgur.com/P3FXRCw)
 
 This allowed me to combine views as well as hide large lists for better navigation. Additionally, users can easily click through lists and submit forms without refreshing, leading to a much better user experience.
 
